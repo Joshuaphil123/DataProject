@@ -3,3 +3,4 @@ python-pptx
 matplotlib
 pandas
 python-dotenv
+gdown
