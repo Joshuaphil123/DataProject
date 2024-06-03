@@ -25,7 +25,7 @@ output = 'Revenue Analysis.pptx'
 gdown.download(url, output, quiet=False)
 
 def check_password():
-    """Returns `True` if the user had a correct password."""
+    """Returns `True` if the user had a correct password or not."""
 
     def login_form():
         """Form with widgets to collect user information"""
