@@ -1,7 +1,0 @@
-openai
-python-pptx
-matplotlib
-pandas
-python-dotenv
-openpyxl
-gdown
